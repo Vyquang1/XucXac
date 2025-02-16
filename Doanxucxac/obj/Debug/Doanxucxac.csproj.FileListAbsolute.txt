@@ -1,0 +1,9 @@
+C:\Users\LENOVO\source\repos\Doanxucxac\Doanxucxac\bin\Debug\Doanxucxac.exe.config
+C:\Users\LENOVO\source\repos\Doanxucxac\Doanxucxac\bin\Debug\Doanxucxac.exe
+C:\Users\LENOVO\source\repos\Doanxucxac\Doanxucxac\bin\Debug\Doanxucxac.pdb
+C:\Users\LENOVO\source\repos\Doanxucxac\Doanxucxac\obj\Debug\Doanxucxac.csproj.AssemblyReference.cache
+C:\Users\LENOVO\source\repos\Doanxucxac\Doanxucxac\obj\Debug\Doanxucxac.Properties.Resources.resources
+C:\Users\LENOVO\source\repos\Doanxucxac\Doanxucxac\obj\Debug\Doanxucxac.csproj.GenerateResource.cache
+C:\Users\LENOVO\source\repos\Doanxucxac\Doanxucxac\obj\Debug\Doanxucxac.csproj.CoreCompileInputs.cache
+C:\Users\LENOVO\source\repos\Doanxucxac\Doanxucxac\obj\Debug\Doanxucxac.exe
+C:\Users\LENOVO\source\repos\Doanxucxac\Doanxucxac\obj\Debug\Doanxucxac.pdb
